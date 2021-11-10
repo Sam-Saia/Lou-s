@@ -15,17 +15,17 @@ h1 {text-align: center; color: white;}
 
 
 
-.container {margin: 0 0 0; background-color: #F5C6A5; text-align: center; padding: 10% 10% 10%;}
+.container {margin-right: 0px; background-color: #F5C6A5; text-align: center; padding: 10% 10%;}
 
-.menu {color: black; padding-bottom: 3%; text-align: center;  background-color: #F5C6A5;}
+.menu {color: black; padding-bottom: 1%; padding-top: 4%; text-align: center;  background-color: #F5C6A5; margin: 0;}
 
 .menu-divs {text-align: center;}
 
 .menu-headers {color: black; padding-bottom: 3%;}
 
-.menu-text {color: #476072;}
+.menu-text {color: #476072; text-align: center; background-color: #F5C6A5; margin: 0 0; padding-bottom: 3%;}
 
-
+.row {background-color: #F5C6A5; padding-bottom: 5%;}
 
 
 
