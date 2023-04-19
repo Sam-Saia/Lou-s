@@ -29,7 +29,7 @@ h1 {text-align: center; color: white;}
 
 .menu-headers {color: black; padding-bottom: 3%;}
 
-.menu-text {color: #9A9483; text-align: center; background-color: #F5C6A5; margin: 0 0; padding-bottom: 3%;}
+.menu-text {color: #C27664; text-align: center; background-color: #F5C6A5; margin: 0 0; padding-bottom: 3%;}
 
 .row {background-color: #F5C6A5; padding-bottom: 5%;}
 
@@ -39,7 +39,7 @@ h1 {text-align: center; color: white;}
 
 .picture-crawfish {position: absolute; margin-left: 2%;}
 
-.button-div {background-color: #FF2626; text-align: center;}
+.button-div {background-color: #F5C6A5; text-align: center;}
 
 .menu-pictures {background-color: #F5C6A5;
 								text-align: center;
@@ -59,9 +59,9 @@ h1 {text-align: center; color: white;}
 	color: white;
 	font-size: 25px;
 	border-radius: 5px;
-	border: 1px #F5C6A5 solid;
+	border: 1px white solid;
 	padding: 10px 18px;
-	background-color: #F5C6A5;
+	background-color: #F96666;
 	text-shadow: 1px 1px 1px #528ecc;
 	box-shadow: inset 1px 1px 2px 0 #bbdaf7;
 	cursor: pointer;
@@ -70,12 +70,12 @@ h1 {text-align: center; color: white;}
 }
 
 .css-button:hover {
-	background-color: #F96666;
+	background-color: #C27664;
   color: white;
 }
 
 
 
-.ordering {background-color: #FF2626; color: white; text-align: center; padding: 8% 8%;}
+.ordering {background-color: #F96666; color: white; text-align: center; padding: 8% 8%;}
 
-.fab {position: absolute; left: 46%;}
+.fab {position: absolute; left: 41%;}
