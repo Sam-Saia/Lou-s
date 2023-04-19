@@ -1,21 +1,26 @@
-body {margin: 0; padding: 0;}
+body {margin: 0; background-color: #F96666;}
 
 h1 {text-align: center; color: white;}
 
 
 
+.header-div {background-color: #F96666; margin-bottom: 0 ; padding-top: 15%; }
 
-.title-div {background-color: #FF2626; padding: 10% 2% 25%; margin: 0}
+.title-header {font-size: 5em; text-align: left; margin-left: 8%; margin-bottom: 0;}
 
-.title-text {color: white; text-align: center; font-size: 3rem;}
+.title-div {background-color: #F96666; padding-bottom: 50%; position: relative; }
 
-.title-header {font-size: 5rem; text-align: center; padding-bottom: 3%}
+.title-text {font-size: 3em; color: white; text-align: left; bottom: 75%; margin-left: 12%;}
 
+.craw-clip {height: 70%; width: 30%; position: absolute; top:21%; right: 8%; transform: rotate(-40deg);}
 
+.shrimp-clip{height: 60%; width: 30%; position: absolute; left:3%; bottom: 4%; transform: rotate(-20deg);}
+
+.crab-clip{height: 35%; width: 25%; position: absolute; left: 34%; bottom: 17%; transform: rotate(20deg);}
 
 .pictureCarousel {padding-top: 10%;}
 
-.container {margin-right: 0px; text-align: center; padding: 10% 10%; padding-bottom: 30%;}
+.container {margin-right: 0; text-align: center; padding: 10% 10%; padding-bottom: 30%;}
 
 
 .menu {color: black; padding-bottom: 1%; padding-top: 4%; text-align: center;  background-color: #F5C6A5; margin: 0;}
@@ -24,7 +29,7 @@ h1 {text-align: center; color: white;}
 
 .menu-headers {color: black; padding-bottom: 3%;}
 
-.menu-text {color: #9A9483; text-align: center; background-color: #F5C6A5; margin: 0 0; padding-bottom: 3%;}
+.menu-text {color: #C27664; text-align: center; background-color: #F5C6A5; margin: 0 0; padding-bottom: 3%;}
 
 .row {background-color: #F5C6A5; padding-bottom: 5%;}
 
@@ -34,7 +39,7 @@ h1 {text-align: center; color: white;}
 
 .picture-crawfish {position: absolute; margin-left: 2%;}
 
-.button-div {background-color: #FF2626; text-align: center;}
+.button-div {background-color: #F5C6A5; text-align: center;}
 
 .menu-pictures {background-color: #F5C6A5;
 								text-align: center;
@@ -50,27 +55,27 @@ h1 {text-align: center; color: white;}
 }
 
 .css-button {
-	font-family: Arial Black;
+	font-family: Arial ;
 	color: white;
-	font-size: 19px;
+	font-size: 25px;
 	border-radius: 5px;
-	border: 1px #F5C6A5 solid;
+	border: 1px white solid;
 	padding: 10px 18px;
-	background-color: #F5C6A5;
+	background-color: #F96666;
 	text-shadow: 1px 1px 1px #528ecc;
-	box-shadow: inset 1px 1px 2px 0px #bbdaf7;
+	box-shadow: inset 1px 1px 2px 0 #bbdaf7;
 	cursor: pointer;
 	display: inline-flex;
 	align-items: center;
 }
 
 .css-button:hover {
-	background-color: #FF2626;
+	background-color: #C27664;
   color: white;
 }
 
 
 
-.ordering {background-color: #FF2626; color: white; text-align: center; padding: 8% 8%;}
+.ordering {background-color: #F96666; color: white; text-align: center; padding: 8% 8%;}
 
-.fab {position: absolute; left: 46%; up: 55%;}
+.fab {position: absolute; left: 41%;}
