@@ -1,18 +1,19 @@
-body {margin: 0; background-color: #F96666;}
+body {margin: 0; background-color: #F96666; min-width:1150px;}
+
 
 h1 {text-align: center; color: white;}
 
 
 
-.header-div {background-color: #F96666; margin-bottom: 0 ; padding-top: 15%; }
+.header-div {background-color: #F96666; margin-bottom: 0 ; padding-top: 15%;}
 
 .title-header {font-size: 5em; text-align: left; margin-left: 8%; margin-bottom: 0;}
 
-.title-div {background-color: #F96666; padding-bottom: 50%; position: relative; }
+.title-div {background-color: #F96666; padding-bottom: 50%; position: relative;}
 
 .title-text {font-size: 3em; color: white; text-align: left; bottom: 75%; margin-left: 12%;}
 
-.craw-clip {height: 70%; width: 30%; position: absolute; top:21%; right: 8%; transform: rotate(-40deg);}
+.craw-clip {height: 50%; width: 20%; position: absolute; top:30%; right: 17%; transform: rotate(-40deg);}
 
 .shrimp-clip{height: 60%; width: 30%; position: absolute; left:3%; bottom: 4%; transform: rotate(-20deg);}
 
@@ -20,18 +21,20 @@ h1 {text-align: center; color: white;}
 
 .pictureCarousel {padding-top: 10%;}
 
-.container {margin-right: 0; text-align: center; padding: 10% 10%; padding-bottom: 30%;}
+.container {text-align: center; padding: 10% 10%; padding-bottom: 30%;}
 
 
-.menu {color: black; padding-bottom: 1%; padding-top: 4%; text-align: center;  background-color: #F5C6A5; margin: 0;}
+.menu {color: black; padding: 4% 0 1%; text-align: center;  background-color: #F5C6A5; margin: 0;}
 
-.menu-divs {text-align: center;}
+.menu-div {text-align: center;}
+
+.menu-divs{padding: 0;}
 
 .menu-headers {color: black; padding-bottom: 3%;}
 
 .menu-text {color: #C27664; text-align: center; background-color: #F5C6A5; margin: 0 0; padding-bottom: 3%;}
 
-.row {background-color: #F5C6A5; padding-bottom: 5%;}
+.row {background-color: #F5C6A5; padding-bottom: 5%; margin:0;}
 
 .picture-shrimp {position: absolute; margin-left: 5%;}
 
@@ -39,7 +42,7 @@ h1 {text-align: center; color: white;}
 
 .picture-crawfish {position: absolute; margin-left: 2%;}
 
-.button-div {background-color: #F5C6A5; text-align: center;}
+.button-div {background-color: #F5C6A5; text-align: center; }
 
 .menu-pictures {background-color: #F5C6A5;
 								text-align: center;
@@ -76,6 +79,6 @@ h1 {text-align: center; color: white;}
 
 
 
-.ordering {background-color: #F96666; color: white; text-align: center; padding: 8% 8%;}
+.ordering {background-color: #F96666; color: white; text-align: center; padding-bottom: 5%; padding-top: 3%;}
 
-.fab {position: absolute; left: 41%;}
+.fab {position: absolute; left: 41%; background-color: #F96666;}
